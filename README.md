@@ -1,4 +1,4 @@
-# 开发准备
+# 开发准备fn
 #### 安装idea 
 #### 安装maven
 #### 安装git （安装smartGit 客户端）

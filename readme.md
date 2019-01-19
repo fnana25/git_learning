@@ -1,5 +1,5 @@
 # 开发准
-#### 安装idea ii 
+#### 安装idea i 
 #### 安装maven
 #### 安装git （安装smartGit 客户端）
 #### 安装idea插件lombok
